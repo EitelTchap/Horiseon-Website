@@ -4,7 +4,7 @@
 
 This project is to update the existing Horiseon website codebase so that it follows accessibility standards and is optimized for search engines.
 
-URL: https://eiteltchap.github.io/horiseon-website/
+URL: https://eiteltchap.github.io/Horiseon-Website/
 
 ## Installation
 
